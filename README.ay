@@ -1,0 +1,22 @@
+# Student Marks Analysis 🧠📊
+
+A Python-based project to analyze and visualize student academic performance using pandas and seaborn.
+
+## Features
+- Calculate mean, max, pass/fail status by subject
+- Bar, distribution, scatter, and pair plots
+- Interactive CLI with input handling
+
+## Technologies Used
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+
+## How to Run
+1. Clone the repo
+2. Install required libraries
+3. Run the Python script and follow on-screen prompts
+
+## Author
+Ayush Ranjan Prasad - Student, IIT Madras
